@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
                           color: Colors.black,
                         ),
                       ),
-                      Text('Projects'),
+                      Text('# of Projects'),
                     ],
                   ),
                   Column(
